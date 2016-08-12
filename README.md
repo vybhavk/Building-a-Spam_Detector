@@ -1,6 +1,6 @@
 # Building a Spam detector by using python
 
-To build a model that detects spam mails in given text
+To build a model that detects spam mails in given text.
 The most common ways to extract numerical features from text content, namely: tokenizing strings and giving an integer id for each possible token, for instance by using white-spaces and punctuation as token separators.
 
  Counting the occurrences of tokens in each document.Normalizing and weighting with diminishing importance tokens that occur in the majority of samples / documents.
